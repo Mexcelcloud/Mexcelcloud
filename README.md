@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://cloudmaniac.online" target="_blank">🌐 cloudmaniac.online</a>
+  <a href="http://cloudmaniac.online" target="_blank">🌐 cloudmaniac.online</a>
   &nbsp;|&nbsp;
   <a href="https://linkedin.com/in/dennis-sunday-chimezie-64b3b9379" target="_blank">💼 LinkedIn</a>
   &nbsp;|&nbsp;
