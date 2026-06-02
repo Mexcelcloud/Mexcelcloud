@@ -79,7 +79,7 @@ Focused on continuous learning, infrastructure automation, and production-ready 
 
 ### 📫 Let's Connect
 
-- 🌐 Website: [cloudmaniac.online](https://cloudmaniac.online)
+- 🌐 Website: [cloudmaniac.online](http://cloudmaniac.online)
 - 💼 LinkedIn: [Dennis Sunday Chimezie](https://linkedin.com/in/dennis-sunday-chimezie-64b3b9379)
 - 📧 Open to internships, junior DevOps roles, freelance, and cloud projects
 
